@@ -71,7 +71,7 @@ These key learnings contribute to enhancing data analysis capabilities, reinforc
 
 ## The Certificate 🏆🏆🏆
 
-![certificate](https://github.com/KuldeepSonara/Deloitte-Australia-VE-Program/blob/main/certifects/Deloitte%20Australia%20Technology%20Completion%20Certificate.pdf)
+![certificate](https://github.com/KuldeepSonara/Deloitte-Australia-VE-Program/blob/346bed0abb6e4f613dc5b126658225abf1fef376/certifects/Screenshot%202024-05-28%20161455.png)
 
 # Thank you 🙏
 
